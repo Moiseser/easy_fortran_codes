@@ -1,0 +1,5 @@
+7 !Amount of elements to skip in data array
+10  !Frequency of data points
+100  !Length of columns
+0   !Length of rows
+random_data.dat
