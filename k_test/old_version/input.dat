@@ -1,0 +1,4 @@
+10000 !Number of Trajectories
+1 !Spring constant
+.66 !Beta value
+traj_sort.dat !data_file
