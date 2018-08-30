@@ -1,0 +1,5 @@
+1 !Amount of elements to skip in data array
+2  !Frequency of data points
+10  !Length of columns
+3   !Length of rows
+data.dat
